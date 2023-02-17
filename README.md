@@ -7,4 +7,5 @@ List nama:
 - Nyoman Agus Budhiarta Waisnawa
 - Aji Budi Santoso
 - Ivan Pradipta 
-
+- Sita Evania
+- Naruto

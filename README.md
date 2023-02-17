@@ -6,3 +6,5 @@ List nama:
 - Galih Wahyu Utomo
 - Nyoman Agus Budhiarta Waisnawa
 - Aji Budi Santoso
+- Ivan Pradipta 
+

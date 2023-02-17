@@ -8,3 +8,4 @@ List nama:
 - Aji Budi Santoso
 - Ivan Pradipta 
 - Sita Evania
+- Naruto

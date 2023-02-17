@@ -2,4 +2,9 @@
 Kontribusi pertama kelas React Regular.
 
 List nama:
--Ivan Pradipta 
+- Hamasah Lab
+- Galih Wahyu Utomo
+- Nyoman Agus Budhiarta Waisnawa
+- Aji Budi Santoso
+- Ivan Pradipta 
+

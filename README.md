@@ -1,2 +1,2 @@
-# react-regular-class
-Kontribusi pertama kelas React Regular
+# react-reglar-class
+Kontribusi pertama kelas React Regular.

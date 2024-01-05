@@ -1,7 +1,8 @@
 repo_name: kalwabed/react-regular-class
 report_id: 181e56d76dbe57be5424829e42113295
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T13:00:40+00:00'
+timestamp: '2024-01-05T08:54:18+00:00'
 requested_by: kalwabed
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/kalwabed/react-regular-class
   detection_source: Repo Metadata
